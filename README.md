@@ -11,3 +11,20 @@ cd spaceInvaders
 gcc -o spacegame invaders.c -lncurses && ./spacegame (compiles and executes the executable)
 ```
 To play use the keyboard arrows to navigate left and right and the spacebar to shoot!
+
+Press M to open menu options. 
+
+```
+1. Change overall game speed
+2. Change alien motion speed
+3. Change tank shot speed
+4. Change alien bomb speed
+5. Change alien bomb dropping frequency
+6. Return to the game
+7. Exit the game
+
+Enter your option:
+
+```
+
+Forgive sloppy coding!
