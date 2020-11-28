@@ -10,4 +10,4 @@ git clone https://github.com/Krish-sysadmin/spaceInvaders
 cd spaceInvaders
 gcc -o spacegame invaders.c -lncurses && ./spacegame (compiles and executes the executable)
 ```
-
+To play use the keyboard arrows to navigate left and right and the spacebar to shoot!
