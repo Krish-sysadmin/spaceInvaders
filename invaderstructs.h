@@ -1,6 +1,5 @@
 /* Space Invaders */
 
-/* header file for invaders.c */
 
 struct player {
 	int r,c;
